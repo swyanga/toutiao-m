@@ -1,24 +1,16 @@
-# toutiao-m
+# 黑马头条移动端学习项目
 
-## Project setup
+## 项目介绍
+
+暂无。正在学习中。
+
+### 启动项目准备工作
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 运行项目
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
